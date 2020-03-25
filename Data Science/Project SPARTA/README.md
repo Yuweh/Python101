@@ -1,4 +1,4 @@
-## Project SPARTA
+## Project SPARTA: Getting Grounded on Analytics
 Foundational Course of Project SPARTA
 
 COURSE OVERVIEW
@@ -13,6 +13,7 @@ Date Finished:
 
 
 //====================================================================================
+
 //  (っ˘▽˘)っ Week 1: Analytics, the Data Value Chain, and the Analytics Roles ⊂(◕.◕⊂)
 //====================================================================================
  
@@ -44,6 +45,7 @@ Date Finished:
 - 1.5 In a Nutshell
 
 //====================================================================================
+
 //  (っ˘▽˘)っ Week 2: The Analytics Competencies and the Professional Maturity Model ⊂(◕.◕⊂)
 //====================================================================================
 
@@ -68,6 +70,7 @@ Date Finished:
 	- 2.6.1 Professional Maturity Self-Assessment
 
 //====================================================================================
+
 //  (っ˘▽˘)っ  Week 3: The DELTA+ Model and the Organizational Maturity Model ⊂(◕.◕⊂)
 //====================================================================================
 - 3.1 Introduction
@@ -88,6 +91,7 @@ Date Finished:
 	- 3.6.1 Organizational Maturity Self-Assessment
 
 //====================================================================================
+
 //  (っ˘▽˘)っ Week 4: An Organizational Strategy Road Map for Analytics ⊂(◕.◕⊂)
 //====================================================================================
 
@@ -108,6 +112,7 @@ Date Finished:
 - Subject Matter Expert / Topic Evaluation
 
 //====================================================================================
+
 //  (っ˘▽˘)っ Week 5: Analytics for the People and the Analytics Ecosystem of the Philippines ⊂(◕.◕⊂)
 //====================================================================================
 
