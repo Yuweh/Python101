@@ -8,8 +8,8 @@ COURSE OVERVIEW
 4.  Week 4: An Organizational Strategy Road Map for Analytics
 5.  Week 5: Analytics for the People and the Analytics Ecosystem of the Philippines
 
-Date Started: February 26, 2020
-Date Finished:
+- Date Started: February 26, 2020
+- Date Finished: April 06, 2020 (Digital Certificate earned)
 
 
 //====================================================================================
