@@ -20,10 +20,10 @@ PATH OVERVIEW
 //====================================================================================
 
 Data Associate Path
-SP101 - Getting Grounded in Analytics
-SP201 - Essential Excel Skills for Data Preparation and Analysis
-SP203 - SQL for Business Users
-SP301 - Data Management Fundamentals
-SP401 - Dashboards and Drill-Down Analytics
-SP501 - Data Visualization Fundamentals
+- SP101 - Getting Grounded in Analytics
+- SP201 - Essential Excel Skills for Data Preparation and Analysis
+- SP203 - SQL for Business Users
+- SP301 - Data Management Fundamentals
+- SP401 - Dashboards and Drill-Down Analytics
+- SP501 - Data Visualization Fundamentals
 
